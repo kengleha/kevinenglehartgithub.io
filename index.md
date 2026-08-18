@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-**Professor**, Department of Electrical and Computer Engineering. 
-**Fellow**, IEEE. 
-**Fellow**, Canadian Academy of Engineering. 
-**Member**,[Institute of Biomedical Engineering](http://www.unb.ca/ibme)  
+**Professor**, Department of Electrical and Computer Engineering, [UNB](http://www.unb.ca/)<br>
+**Fellow**, IEEE<br>
+**Fellow**, Canadian Academy of Engineering<br>
+**Member**,[Institute of Biomedical Engineering](http://www.unb.ca/ibme) <br>
 
 ---
 
