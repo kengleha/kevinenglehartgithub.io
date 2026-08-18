@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 # Site Settings
-title: "Kevin Englehart"
+#title: "Kevin Englehart"
 name: "Kevin Englehart, PhD, P.Eng"
 description: "Professor of Electrical & Computer Engineering | University of New Brunswick"
 url: "https://kengleha.github.io/kevinenglehartgithub.io/"
