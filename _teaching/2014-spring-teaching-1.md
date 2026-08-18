@@ -1,11 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "ECE 4523 – Communication Systems"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+
+title: "ECE 4923 – Introduction to Biomedical Engineering"
+collection: teaching
+
+title: "EE 6513 – Random Variables and Stochastic Processes"
+collection: teaching
+
+title: "EE 6923 – Biological Signal Processing"
+collection: teaching
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
