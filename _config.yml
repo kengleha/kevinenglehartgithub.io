@@ -23,7 +23,7 @@ baseurl: "" # Leave empty if using <username>.github.io
 author:
   name             : "Home"
 #  bio              : "Professor of Electrical & Computer Engineering"
-#  avatar           : "/images/profile.jpg" # Place your headshot in /images/
+  avatar           : "http://www.ece.unb.ca/kengleha/profile.jpg" # Place your headshot in /images/
   employer         : "University of New Brunswick"
   location         : "Fredericton, NB, Canada"
   email            : "kengleha@unb.ca"
