@@ -31,7 +31,7 @@ author:
   github           : "kengleha"
   avatar           : "images/profile.jpg" # Place your headshot in /images/
   # Academic websites
-  academia         : https://newbrunswick.academia.edu/KevinEnglehart
+  academia         : "https://newbrunswick.academia.edu/KevinEnglehart"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
