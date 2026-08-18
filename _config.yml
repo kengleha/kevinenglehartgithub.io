@@ -21,9 +21,9 @@ baseurl: "" # Leave empty if using <username>.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 # Author Profile (Sidebar)
 author:
-  name             : "Kevin Englehart"
+#  name             : "Kevin Englehart"
 #  bio              : "Professor of Electrical & Computer Engineering"
-  avatar           : "/images/profile.jpg" # Place your headshot in /images/
+  avatar           : "/images/profile.png" # Place your headshot in /images/
   employer         : "University of New Brunswick"
   location         : "Fredericton, NB, Canada"
   email            : "kengleha@unb.ca"
