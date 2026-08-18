@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "Dr. Kevin Englehart"
+title: "Dr. Kevin Englehart, PhD, P.Eng, FCAE, FIEEE"
 permalink: /
 author_profile: true
 ---
 
-# Dr. Kevin Englehart, PhD, P.Eng, FCAE, FIEEE
 
 **Professor**, Department of Electrical and Computer Engineering  
 **Institute of Biomedical Engineering**, University of New Brunswick  
