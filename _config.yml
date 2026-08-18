@@ -85,7 +85,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Ameri, A., Akhaee, M.A., Scheme, E., & Englehart, K. (2018). Real-time, simultaneous myoelectric control using a convolutional neural network. PLoS ONE, 13(9), e0203835.'    
   conferences:
     title: 'Conference Papers'
 
