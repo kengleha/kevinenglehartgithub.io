@@ -17,7 +17,7 @@ author_profile: true
 I am a Professor of Electrical and Computer Engineering and currently serve as Associate Dean in the School of Graduate Studies. My research lies at the intersection of machine learning, biomedical engineering, and human motor control, with a focus on developing intelligent systems that support rehabilitation and recovery. I work on technologies that use electromyography to control powered upper limb prostheses and human-machine interfaces, and feedback systems that enhance motor learning and neuroplasticity following traumatic injuries to the central nervous system. I am particularly interested in how feedback mechanisms can improve both control and motor function recovery, and in modeling neural systems to better understand motor control and decode efferent pathway signals. 
 
 ### Research Themes
-* **Machine Learning for Rehabilitation: **
+* **Machine Learning for Rehabilitation:**
   * Powered upper limb prostheses
   * Electromyography and force myography
 * **The Role of Feedback in Motor Learning:**
