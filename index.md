@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Dr. Kevin Englehart, PhD, P.Eng"
+title: "Kevin Englehart, PhD, P.Eng"
 permalink: /
 author_profile: true
 ---
