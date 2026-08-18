@@ -14,7 +14,7 @@ site_theme               : "default" # The available themes options are "default
 name: "Kevin Englehart, PhD, P.Eng"
 description: "Professor of Electrical & Computer Engineering | University of New Brunswick"
 url: "https://kengleha.github.io/kevinenglehartgithub.io/"
-baseurl: "https://kengleha.github.io/kevinenglehartgithub.io/" # Leave empty if using <username>.github.io
+#baseurl: "https://kengleha.github.io/kevinenglehartgithub.io/" # Leave empty if using <username>.github.io
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
