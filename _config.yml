@@ -22,7 +22,7 @@ baseurl: "" # Leave empty if using <username>.github.io
 # Author Profile (Sidebar)
 author:
   name             : "Kevin Englehart"
-  avatar           : "/images/profile.jpg" # Place your headshot in /images/
+  avatar           : "/images/Kevin_b&w_small_crop.jpg" # Place your headshot in /images/
   bio              : "Professor of Electrical & Computer Engineering"
   location         : "Fredericton, NB, Canada"
   employer         : "University of New Brunswick"
