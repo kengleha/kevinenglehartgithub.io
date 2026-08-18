@@ -1,7 +1,7 @@
 ---
 title: "ECE 4523 - Communication Systems"
 collection: teaching
-permalink: /teaching/2015-spring-teaching-1](https://www.unb.ca/academics/calendar/undergraduate/current/frederictoncourses/electricalandcomputerengineering/ece-4523.html
+permalink: https://www.unb.ca/academics/calendar/undergraduate/current/frederictoncourses/electricalandcomputerengineering/ece-4523.html
 
 ---
 
